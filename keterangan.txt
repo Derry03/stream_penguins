@@ -1,0 +1,3 @@
+species {0 = Adelia, 1 = Chinstrap dan 2 = Gentoo}
+island {0 = Biscoe ,1 = Dream dan 2 = Torgersen}
+sex {1 = FEMALE dan 2 = Male}
